@@ -1,3 +1,5 @@
+![ckw-skills — a Claude Code plugin marketplace of human-in-the-loop studios and deterministic design tooling by Conner K. Ward](https://raw.githubusercontent.com/connerkward/ckw-skills/main/docs/banner.png)
+
 # ckw-skills
 
 A Claude Code **plugin marketplace** of skills by Conner K. Ward, built around two
