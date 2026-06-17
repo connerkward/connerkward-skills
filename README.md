@@ -45,11 +45,11 @@ visualizer. You drag, it re-renders — you never guess a number. [repo](https:/
 ![lookdev: bas-relief XPS extrusion studio rendering a depth map into a 3D relief, with a full control panel and ViewCube](https://raw.githubusercontent.com/connerkward/lookdev-studio-skill/main/docs/lookdev.png)
 
 ### deterministic-design — render the UI and *measure* it
-The thesis: balance is a measurable quantity, not a vibe. A layout balances like a see-saw — ink
-weight × distance from center — so the model can *measure* the moment instead of asking an LLM to
-eyeball it. (Preview placeholder; an animated example is in review.) [repo](https://github.com/connerkward/deterministic-design-skill)
+The thesis, animated: balance is a measurable quantity. A layout's ink-weighted centroid must land on
+the optical center — so the model *measures* the moment and self-balances (grow the heading, settle the
+image) instead of asking an LLM to eyeball it. The demo itself is audited by the skill's own `layout-audit.js`. [repo](https://github.com/connerkward/deterministic-design-skill)
 
-![deterministic-design: a see-saw showing layout balance as a physical moment — a portrait and a text column balanced on a fulcrum](https://raw.githubusercontent.com/connerkward/deterministic-design-skill/main/docs/balance-explorable.png)
+![deterministic-design: an animated layout self-balancing — the measured centroid sliding onto the optical center as the heading grows and the image settles](https://raw.githubusercontent.com/connerkward/deterministic-design-skill/main/docs/demo.gif)
 
 ### screenstudio-alternative — headless Screen Studio pipeline
 Auto speed-up of idle, auto-zoom on click clusters, keystroke overlays, a smoothed synthetic
