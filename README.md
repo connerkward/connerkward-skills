@@ -68,9 +68,10 @@ Records the main display plus system audio via ScreenCaptureKit — the one gap 
 ![macos-screen-recorder CLI usage](https://raw.githubusercontent.com/connerkward/macos-screen-recorder-system-audio/main/docs/usage.png)
 
 ### web-media-getter — one query, fanned out across free media sources
-A single search hits openverse, wikimedia, internet archive, the Library of Congress, NASA (and,
-with free keys, Pexels / Pixabay / GIF engines) in parallel, returning a normalized, license-tagged
-result list with attribution — the retrieval peer to local search and generation. [repo](https://github.com/connerkward/web-media-getter-skill)
+Searches free **images, videos, and GIFs** in one query — openverse, wikimedia, internet archive,
+the Library of Congress, NASA (and, with free keys, Pexels / Pixabay / GIF engines) in parallel —
+returning a normalized, license-tagged result list with attribution. The retrieval peer to local
+search and generation. [repo](https://github.com/connerkward/web-media-getter-skill)
 
 ![web-media-getter: one apollo-moon-landing query returning results badged by source — internet archive, openverse, wikimedia, loc, nasa](https://raw.githubusercontent.com/connerkward/web-media-getter-skill/main/docs/example-output.png)
 
