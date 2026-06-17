@@ -59,7 +59,7 @@ loop. [repo](https://github.com/connerkward/lookdev-auto-skill)
 Auto speed-up of idle, auto-zoom on click clusters, keystroke overlays, a smoothed synthetic
 cursor, and 9:16 vertical export — all from the CLI, no GUI, no subscription. [repo](https://github.com/connerkward/screenstudio-alternative-skill)
 
-![screenstudio-alternative pipeline demo](https://raw.githubusercontent.com/connerkward/screenstudio-alternative-skill/main/docs/pipeline.gif)
+![screenstudio-alternative pipeline demo](https://raw.githubusercontent.com/connerkward/screenstudio-alternative-skill/main/docs/demo.gif)
 
 ### macos-screen-recorder — CLI capture with system audio, no driver
 Records the main display plus system audio via ScreenCaptureKit — the one gap QuickTime and
