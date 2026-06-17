@@ -102,6 +102,6 @@ variant, aligned true by construction (drawn inside the painted mask, never dete
 Installs as a plugin *and* registers the MCP server, bundling the `skeuo-skin-generator` skill and an
 inline Create/preview ext-app. [repo](https://github.com/connerkward/skeuo-mcp) · [live demo](https://skeuo-ui.pages.dev)
 
-![skeuo: four skeuomorphic music-player skins with working switches, knobs, and faders generated from one-sentence prompts](https://skeuo-ui.pages.dev/og.png)
+![skeuo: skeuomorphic music-player skins with working switches, knobs, and faders generated from one-sentence prompts](https://raw.githubusercontent.com/connerkward/skeuo-ui/main/docs/skeuo-card.png)
 
 MIT © Conner K Ward
